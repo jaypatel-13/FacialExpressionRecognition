@@ -17,6 +17,7 @@ cap = cv2.VideoCapture(0)
 while True:
     # Grab a single frame of video
     ret, frame = cap.read()
+    frame = cv2.flip(frame,1)
     labels = []
     gray = cv2.cvtColor(frame,cv2.COLOR_BGR2GRAY)
     faces = face_classifier.detectMultiScale(gray,1.3,5)
