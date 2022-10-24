@@ -179,20 +179,36 @@ A better dataset could help the model predict sad and neutral emotions more accu
 
 # REFERENCES
 [1] M. I. N. P. Munasinghe, "Facial Expression Recognition Using Facial Landmarks and Random Forest Classifier," 2018 IEEE/ACIS 17th International Conference on Computer and Information Science (ICIS), 2018, pp. 423-427, DOI: 10.1109/ICIS.2018.8466510.
+
 [2] K. Zhang, Y. Huang, Y. Du, and L. Wang, "Facial Expression Recognition Based on Deep Evolutional Spatial-Temporal Networks," in IEEE Transactions on Image Processing, vol. 26, no. 9, pp. 4193-4203, Sept. 2017, DOI: 10.1109/TIP.2017.2689999.
-Page 13 of 13
+
 [3] A. Mollahosseini, D. Chan and M. H. Mahoor, "Going deeper in facial expression recognition using deep neural networks," 2016 IEEE Winter Conference on Applications of Computer Vision (WACV), 2016, pp. 1-10, DOI: 10.1109/WACV.2016.7477450.
+
 [4] Huiyuan Yang, Umur Ciftci, Lijun Yin " Facial Expression Recognition by De-Expression Residue Learning" IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018, pp. 2168-2177.
+
 [5] T. Jabid, M. H. Kabir and O. Chae, "Facial expression recognition using Local Directional Pattern (LDP)," 2010 IEEE International Conference on Image Processing, 2010, pp. 1605-1608, DOI: 10.1109/ICIP.2010.5652374.M. Young, The Technical Writer's Handbook. Mill Valley, CA: University Science, 1989.
+
 [6] Aurélien Géron “Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow”, 2nd Edition June 2019, ISBN-13 : 978-1492032649
+
 [7] Yann LeCun et al. "Gradient-based learning applied to document recognition, "Proceedings of the IEEE, 1998, pp. 2278-2324, DOI: 10.1109/5.726791.
+
 [8] Yann LeCun et al. "Gradient-based learning applied to document recognition, "Proceedings of the IEEE, 1998, pp. 2278-2324, DOI: 10.1109/5.726791.
+
 [9] Christian Szegedy et al., "Going Deeper With Convolutions," Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 2015, https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Szegedy_Going_Deeper_With_2015_CVPR_paper.html
+
 [10] Karen Simonyan and Andrew Zisserman "Very Deep Convolutional Networks for Large-Scale Image Recognition " conference paper at ICLR,2015
+
 [11] Kaiming He et al., "Deep Residual Learning for Image Recognition", https://arxiv.org/abs/1512.03385
+
 [12] Jie Hu et al. "Squeeze-and-Excitation Networks", CVPR 2018, https://arxiv.org/abs/1709.01507
+
 [13] Padilla, R., Costa Filho, C. F. F., & Costa, M. G. F. (2012). Evaluation of haar cascade classifiers designed for face detection. World Academy of Science, Engineering and Technology, 64, 362-365.
+
 [14] Wolfram Research, "FER-2013" from the Wolfram Data Repository (2018).
+
 [15] The Extended Cohn-Kanade Dataset (CK+): A complete dataset for action unit and emotion-specified expression
+
 [16] AffectNet: A Database for Facial Expression, Valence, and Arousal Computing in the Wild
+
 [17] Agarap, A. F. (2018). Deep learning using rectified linear units (relu). arXiv preprint
+
